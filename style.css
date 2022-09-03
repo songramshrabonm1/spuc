@@ -154,14 +154,14 @@
     width: 90%;
     height: 30vh;
     margin: 10px auto;
-    position: relative;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
 }
 .footer-text{
-    position: absolute;
+    /* position: absolute; */
     font-size: 80%;
-    top: 40%;
-    left: 45%;
-
+    
 }
 
